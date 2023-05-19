@@ -46,4 +46,4 @@ is generated conditioned by a label and converted to WKT format.</p>
 ### To Do List:
 - Complete code upload
 - Complete ReadMe file with description and results summary
-- ...
+- Upload reconstruction videos
