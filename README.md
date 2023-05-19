@@ -6,7 +6,7 @@
 </p>
 
 ---
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FCIIC-C-T-Polytechnic-of-Leiria%2FESS_Data_Lab&countColor=%23263759&style=plastic)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FCIIC-C-T-Polytechnic-of-Leiria%2FReconstr_CVAE_paper&label=Visitors&countColor=%23263759&style=plastic)
 ### Abstract 
 
 The continuous representation of spatiotemporal data commonly relies on using abstract data types, such as \textit{moving regions}, to represent entities whose shape and position continuously change over time. Creating this representation from discrete snapshots of real-world entities requires using interpolation methods to compute in-between data representations and estimate the position and shape of the object of interest at arbitrary temporal points. Existing region interpolation methods often fail to generate smooth and realistic representations of a region's evolution. However, recent advancements in deep learning techniques have revealed the potential of deep models trained on discrete observations to capture spatiotemporal dependencies through implicit feature learning.
@@ -15,16 +15,21 @@ In this work, we explore the capabilities of Conditional Variational Autoencoder
 
 The proposed C-VAE-based approach demonstrates competitive results in geometric similarity metrics. It also exhibits superior temporal consistency, suggesting that C-VAE models may be a viable alternative to modelling the spatiotemporal evolution of 2D moving regions.
 
-#### Burned Area 2D Moving Regions
-<p align="center">
+#### Burned Area 2D Moving Region 
+
+<div align="center">
 <img src="assets/mov_region.png" width="1000px"/>
-</p>
+<p>Continuous representation model requires a method to recreate the spatiotemporal evolution of a region, such as the progression of the burned area.</p>
+</div>
 
-#### C-VAE Architecture
+#### C-VAE 
 
-<p align="center">
+<div align="center">
 <img src="assets/CVAE_training_inference.png" width="1000px"/>
-</p>
+<p><strong>Employed C-VAE Architecture.</strong>  a) each region stored in WKT
+format is converted to raster image to be processed by the model b) a new image
+is generated conditioned by a label and converted to WKT format.</p>
+</div>
 
 ### Dataset Citation
 ```
