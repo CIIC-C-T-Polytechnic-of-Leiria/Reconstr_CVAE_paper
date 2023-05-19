@@ -33,7 +33,7 @@ is generated conditioned by a label and converted to WKT format.</p>
 
 ### Dataset Citation
 ```
-@misc{Ribeiro2023_dataset,
+@misc{ba_uav_ribeiro_dataset,
   author       = {Ribeiro, Tiago F. R. and Silva, Fernando and Moreira, José and Costa, Rogério Luís de C.},
   title        = {BurnedAreaUAV Dataset (v1.1)},
   month        = may,
