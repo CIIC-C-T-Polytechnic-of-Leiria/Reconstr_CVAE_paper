@@ -31,6 +31,23 @@ format is converted to raster image to be processed by the model b) a new image
 is generated conditioned by a label and converted to WKT format.</p>
 </div>
 
+#### Results 
+
+<div align="center">
+<img src="assets/table_iou_hausdorff.png"/>
+<p><strong>Similarity Evaluation.</strong> Comparison of JI and HD for U-Net Samples and BurnedAreaUAV test set using periodic and distance-based sampling.</p>
+</div>
+
+<div align="center">
+<img src="assets/table_tc.png"/>
+<p><strong>Temporal Consistency Comparison.</strong> Average temporal consistency across different algorithms for periodic and distance-based sampling.</p>
+</div>
+
+<div align="center">
+<img src="assets/area_evolution.png" width="1000px"/>
+<p>Representation of the evolution burned area.</p>
+</div>
+
 ### Dataset Citation
 ```
 @misc{ba_uav_ribeiro_dataset,
