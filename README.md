@@ -64,8 +64,10 @@ is generated conditioned by a label and converted to WKT format.</p>
 ```
 Under review 🔍
 ```
+### Acknowledgements
+This work is partially funded by FCT - Fundação para a Ciência e a Tecnologia, I.P., through projects MIT-EXPL/ACC/0057/2021 and UIDB/04524/2020, and under the Scientific Employment Stimulus - Institutional Call - CEE/CINST/00051/2018.
 
 ### To Do List:
 - Complete code upload
-- Complete ReadMe file with description and results summary
+- Complete ReadMe file
 - Upload reconstruction videos
