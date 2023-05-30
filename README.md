@@ -48,7 +48,7 @@ is generated conditioned by a label and converted to WKT format.</p>
 <p>Representation of the evolution burned area.</p>
 </div>
 
-### Dataset Download and Citation 
+### Dataset [Download](https://zenodo.org/record/7944963#.ZGYoxHbMIQ8) and Citation 
 ```
 @misc{ba_uav_ribeiro_dataset,
   author       = {Ribeiro, Tiago F. R. and Silva, Fernando and Moreira, José and Costa, Rogério Luís de C.},
