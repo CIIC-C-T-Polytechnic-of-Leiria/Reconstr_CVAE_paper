@@ -53,7 +53,8 @@ The C-VAE algorithm performed competitively against the best-performing algorith
 ### Data Download
 
 - [*BurnedAreaUAV* Dataset](https://zenodo.org/record/7944963#.ZGYoxHbMIQ8)
-- [U-Net Samples File](https://www.dummy.com) **DUMMY LINK**
+- [U-Net Samples File](https://drive.google.com/file/d/1Lmh3jY0qMQd8kpiX9fkIFNGKvXjab_bp/view?usp=sharing)
+- 
 
 ### *BurnedAreaUAV* Dataset Citation
 ```
@@ -74,8 +75,3 @@ Under review 🔍
 ### Acknowledgements
 This work is partially funded by FCT - Fundação para a Ciência e a Tecnologia, I.P., through projects MIT-EXPL/ACC/0057/2021 and UIDB/04524/2020, and under the Scientific Employment Stimulus - Institutional Call - CEE/CINST/00051/2018.
 
-### To Do List:
-- Replace dummy link
-- Complete code upload
-- Complete ReadMe file
-- Upload reconstruction videos
