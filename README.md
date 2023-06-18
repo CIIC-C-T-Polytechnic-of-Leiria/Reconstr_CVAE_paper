@@ -54,7 +54,6 @@ The C-VAE algorithm performed competitively against the best-performing algorith
 
 - [*BurnedAreaUAV* Dataset](https://zenodo.org/record/7944963#.ZGYoxHbMIQ8)
 - [U-Net Samples File](https://drive.google.com/file/d/1Lmh3jY0qMQd8kpiX9fkIFNGKvXjab_bp/view?usp=sharing)
-- 
 
 ### *BurnedAreaUAV* Dataset Citation
 ```
