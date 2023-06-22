@@ -32,7 +32,7 @@ is generated conditioned by a label and converted to WKT format.</p>
 ### Summary of results 
 
 <div align="center">
-<img src="assets/tab_iou_hausdorf.png" width="600px"/>
+<img src="assets/tab_similarity.png" width="600px"/>
 <p><strong>Similarity Evaluation.</strong> Comparison of JI and HD for U-Net Samples and BurnedAreaUAV test set using periodic and distance-based sampling.</p>
 </div>
 
