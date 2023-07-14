@@ -53,7 +53,7 @@ is generated conditioned by a label and converted to WKT format.</p>
 </div>
 
 <div align="center">
-      <a href="[https://www.youtube.com/watch?v=LvpJ7jXjSkw](https://www.youtube.com/watch?v=9gHSvj8vwTI)">
+      <a href="https://www.youtube.com/watch?v=9gHSvj8vwTI">
      <img 
       src="assets/play_video.png" 
       alt="Comparison of Interpolation from Distance-Based Sampling" 
