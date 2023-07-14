@@ -52,9 +52,20 @@ is generated conditioned by a label and converted to WKT format.</p>
 <p>Representation of the evolution burned area.</p>
 </div>
 
+<div align="center">
+      <a href="[https://www.youtube.com/watch?v=LvpJ7jXjSkw](https://www.youtube.com/watch?v=9gHSvj8vwTI)">
+     <img 
+      src="assets/play_video.png" 
+      alt="Comparison of Interpolation from Distance-Based Sampling" 
+      style="width:75%;">
+      </a>
+      <p>Comparison of Interpolation from Distance-Based Sampling</p>
+ </div>
+
 ### TL;DR
 
 The C-VAE algorithm performed competitively against the best-performing algorithm (Shape-Based) in terms of similarity metrics and also achieved superior temporal consistency and generated a relatively realistic and smooth representation of the phenomenon evolution, suggesting that C-VAE models may be a viable alternative to modelling the spatiotemporal evolution of 2D moving regions.
+
 
 ### Data Download
 
