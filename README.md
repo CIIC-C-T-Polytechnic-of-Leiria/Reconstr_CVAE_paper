@@ -6,6 +6,12 @@
 </p>
 
 ---
+<div align="center">
+
+ [Paper](https://www.sciencedirect.com/science/article/pii/S0924271623001831) | [Dataset](https://zenodo.org/record/7944963#.ZGYoxHbMIQ8) | [Paper Citation](#paper-citation) |  [Dataset Citation](#burnedareauav-dataset-citation) 
+ 
+</div>
+
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FCIIC-C-T-Polytechnic-of-Leiria%2FReconstr_CVAE_paper&label=Visitors&countColor=%23263759&style=plastic)
 ### Description
 
@@ -20,7 +26,7 @@ In this work, we explore the capabilities of Conditional Variational Autoencoder
 <p>Continuous representation model requires a method to recreate the spatiotemporal evolution of a region, such as the progression of the burned area.</p>
 </div>
 
-### C-VAE 
+### C-VAE Architecture
 
 <div align="center">
 <img src="assets/CVAE_training_inference.png" width="1000px"/>
@@ -29,7 +35,7 @@ format is converted to raster image to be processed by the model b) a new image
 is generated conditioned by a label and converted to WKT format.</p>
 </div>
 
-### Summary of results 
+### Summary of Results 
 
 <div align="center">
 <img src="assets/tab_similarity.png" width="600px"/>
@@ -56,7 +62,7 @@ The C-VAE algorithm performed competitively against the best-performing algorith
 - [U-Net Samples File](https://drive.google.com/file/d/1Lmh3jY0qMQd8kpiX9fkIFNGKvXjab_bp/view?usp=sharing)
 
 ### *BurnedAreaUAV* Dataset Citation
-```
+```bibtex
 @misc{ba_uav_ribeiro_dataset,
   author       = {Ribeiro, Tiago F. R. and Silva, Fernando and Moreira, José and Costa, Rogério Luís de C.},
   title        = {BurnedAreaUAV Dataset (v1.1)},
