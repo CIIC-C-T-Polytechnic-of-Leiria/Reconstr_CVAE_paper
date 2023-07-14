@@ -8,7 +8,7 @@
 ---
 <div align="center">
 
- [Paper](https://www.sciencedirect.com/science/article/pii/S0924271623001831) | [Dataset](https://zenodo.org/record/7944963#.ZGYoxHbMIQ8) | [Paper Citation](#paper-citation) |  [Dataset Citation](#burnedareauav-dataset-citation) 
+ [Dataset](https://zenodo.org/record/7944963#.ZGYoxHbMIQ8) | [Dataset Citation](#burnedareauav-dataset-citation) 
  
 </div>
 
