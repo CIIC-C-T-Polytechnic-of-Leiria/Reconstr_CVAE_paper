@@ -12,7 +12,7 @@
  
 </div>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FCIIC-C-T-Polytechnic-of-Leiria%2FReconstr_CVAE_paper&label=Visitors&countColor=%23263759&style=plastic)
+<!-- ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FCIIC-C-T-Polytechnic-of-Leiria%2FReconstr_CVAE_paper&label=Visitors&countColor=%23263759&style=plastic) -->
 ### Description
 
 The continuous representation of spatiotemporal data commonly relies on using abstract data types, such as *moving regions*, to represent entities whose shape and position continuously change over time. Creating this representation from discrete snapshots of real-world entities requires using interpolation methods to compute in-between data representations and estimate the position and shape of the object of interest at arbitrary temporal points. Existing region interpolation methods often fail to generate smooth and realistic representations of a region's evolution. However, recent advancements in deep learning techniques have revealed the potential of deep models trained on discrete observations to capture spatiotemporal dependencies through implicit feature learning.
