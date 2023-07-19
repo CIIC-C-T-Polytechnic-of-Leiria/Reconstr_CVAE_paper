@@ -8,7 +8,7 @@
 ---
 <div align="center">
 
- [Dataset](https://zenodo.org/record/7944963#.ZGYoxHbMIQ8) | [Dataset Citation](#burnedareauav-dataset-citation) 
+ [Preprint](https://doi.org/10.48550/arXiv.2307.06243) | [Dataset](https://zenodo.org/record/7944963#.ZGYoxHbMIQ8) | [Dataset Citation](#burnedareauav-dataset-citation) 
  
 </div>
 
@@ -84,8 +84,21 @@ The C-VAE algorithm performed competitively against the best-performing algorith
   doi          = {10.5281/zenodo.7944963},
 }
 ```
-### Paper Citation
+### Preprint Citation
+```bibtex
+@misc{ribeiro2023reconstructing,
+      title={Reconstructing Spatiotemporal Data with C-VAEs}, 
+      author={Tiago F. R. Ribeiro and Fernando Silva and Rogério Luís de C. Costa},
+      year={2023},
+      eprint={2307.06243},
+      archivePrefix={arXiv},
+      primaryClass={cs.DB},
+      doi = {https://doi.org/10.48550/arXiv.2307.06243}
+}
 ```
+
+### Paper Citation
+```bibtex
 Under review 🔍
 ```
 ### Acknowledgements
