@@ -8,7 +8,7 @@
 ---
 <div align="center">
 
- [Preprint](https://doi.org/10.48550/arXiv.2307.06243) | [Dataset](https://zenodo.org/record/7944963#.ZGYoxHbMIQ8) | [Dataset Citation](#burnedareauav-dataset-citation) 
+ [Preprint](https://doi.org/10.48550/arXiv.2307.06243) | [Reviewed Article](http://dx.doi.org/10.1007/978-3-031-42914-9_5) | [Dataset](https://zenodo.org/record/7944963#.ZGYoxHbMIQ8) | [Dataset Citation](#burnedareauav-dataset-citation) 
  
 </div>
 
@@ -86,7 +86,7 @@ The C-VAE algorithm performed competitively against the best-performing algorith
 ```
 ### Preprint Citation
 ```bibtex
-@misc{ribeiro2023reconstructing,
+@misc{ribeiro2023preprint,
       title={Reconstructing Spatiotemporal Data with C-VAEs}, 
       author={Tiago F. R. Ribeiro and Fernando Silva and Rogério Luís de C. Costa},
       year={2023},
@@ -99,7 +99,23 @@ The C-VAE algorithm performed competitively against the best-performing algorith
 
 ### Paper Citation
 ```bibtex
-Under review 🔍
+@InProceedings{ribeiro2023ADBIS,
+author="Ribeiro, Tiago F. R.
+and Silva, Fernando
+and de C. Costa, Rog{\'e}rio Lu{\'i}s",
+editor="Abell{\'o}, Alberto
+and Vassiliadis, Panos
+and Romero, Oscar
+and Wrembel, Robert",
+title="Reconstructing Spatiotemporal Data with C-VAEs",
+booktitle="Advances in Databases and Information Systems",
+year="2023",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="59--73",
+isbn="978-3-031-42914-9"
+}
+
 ```
 ### Acknowledgements
 This work is partially funded by FCT - Fundação para a Ciência e a Tecnologia, I.P., through projects MIT-EXPL/ACC/0057/2021 and UIDB/04524/2020, and under the Scientific Employment Stimulus - Institutional Call - CEE/CINST/00051/2018.
