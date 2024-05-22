@@ -1,1 +1,9 @@
-
+matplotlib
+watermark
+rasterio
+scipy
+shapely
+numpy
+cv2
+tensorflow
+tqdm
