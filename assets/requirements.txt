@@ -1,0 +1,6 @@
+watermark
+shapely
+scipy
+numpy
+tqdm
+rasterio
